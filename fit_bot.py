@@ -4,7 +4,7 @@ import telebot
 from telebot import types
 import webbrowser
  
-token = '5788841089:AAEGRFSL2fcp7wq3yo1TubaE7VAYrOlc59E'
+token = '579:AAEGRFSL2fcp7wq3yo19E'
  
 bot = telebot.TeleBot(token)
  
