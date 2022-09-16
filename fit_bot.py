@@ -2,7 +2,6 @@ from random import choice
  
 import telebot
 from telebot import types
-import webbrowser
  
 token = '579:AAEGRFSL2fcp7wq3yo19E'
  
